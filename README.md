@@ -1,10 +1,15 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-## Игорь Черных
-**Backend Developer · Go**
-[![Telegram](https://img.shields.io/badge/-@imluka8-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/imluka8)
-[![Gmail](https://img.shields.io/badge/-igorc4555@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:igorc4555@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=gosh-creator&style=flat&color=grey)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <h2>Игорь Черных</h2>
+  <p><strong>Backend Developer · Go</strong></p>
+
+  <a href="https://t.me/imluka8">
+    <img src="https://img.shields.io/badge/-@imluka8-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:igorc4555@gmail.com">
+    <img src="https://img.shields.io/badge/-igorc4555@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gosh-creator&style=flat&color=grey"/>
 </div>
 
 ---
@@ -74,8 +79,7 @@
 ### 📊 Stats
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gosh-creator&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosh-creator&layout=compact&theme=tokyonight&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gosh-creator&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosh-creator&layout=compact&theme=tokyonight&border_radius=8"/>
 </div>
