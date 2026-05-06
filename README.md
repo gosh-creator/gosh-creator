@@ -79,7 +79,7 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gosh-creator&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sergeyiksanov&theme=tokyonight&border_radius=8"/>
   <br/><br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gosh-creator&layout=compact&theme=tokyonight&border_radius=8&langs_count=8&size_weight=0.5&count_weight=0.5"/>
 </div>
